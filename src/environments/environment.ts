@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  REACT_APP_URL_DESIGN_SYSTEM: 'https://cdn-dev.pichincha.com/wc-design-pichincha/'
 };
 
 /*
